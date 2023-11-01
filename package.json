@@ -1,0 +1,36 @@
+{
+  "name": "react-data-admin",
+  "version": "1.0.0",
+  "description": "A powerful React admin interface to manage and visualize database data efficiently.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdifardin/react-data-admin.git"
+  },
+  "keywords": [
+    "react",
+    "database",
+    "admin",
+    "visualization",
+    "management",
+    "data-interface",
+    "react-component",
+    "data-admin",
+    "db",
+    "dashboard",
+    "data-crud",
+    "pagination",
+    "filtering",
+    "searching",
+    "grouping"
+  ],
+  "author": "Fardin Abdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdifardin/react-data-admin/issues"
+  },
+  "homepage": "https://github.com/abdifardin/react-data-admin#readme"
+}
